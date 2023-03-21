@@ -19,7 +19,7 @@ worksheet.write(0, 2, 'Alamat')
 
 worksheet.write(1, 0, '1317049')
 worksheet.write(1, 1, 'eben manurung')
-worksheet.write(1, 1, 'bekasi')
+worksheet.write(1, 2, 'bekasi')
 
 worksheet.write(2, 0, '1317039')
 worksheet.write(2, 1, 'dina sihombing')
