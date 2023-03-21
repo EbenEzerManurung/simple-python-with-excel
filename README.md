@@ -6,7 +6,7 @@ Using python with xlsx(Ms.Excel)
 ### Install project
 Install from GIT
 ```bash
-git clone
+git clone https://github.com/EbenEzerManurung/simple-python-with-excel.git
 ```
 
 ### Setup
